@@ -1,0 +1,69 @@
+Q: What does SQL stand for?
+A. Simple Query Language
+B. Structured Query Language
+C. Sequential Query Language
+D. Standard Question Language
+Answer: B
+
+Q: Which SQL statement is used to extract data from a database?
+A. GET
+B. OPEN
+C. SELECT
+D. EXTRACT
+Answer: C
+
+Q: What is a primary key?
+A. A key that is used to encrypt a database
+B. A field that uniquely identifies each record
+C. A key that links two tables
+D. A default field in all tables
+Answer: B
+
+Q: Which command is used to remove a table from a database?
+A. DELETE TABLE
+B. DROP TABLE
+C. REMOVE TABLE
+D. CLEAR TABLE
+Answer: B
+
+Q: What type of database is MongoDB?
+A. Relational
+B. Graph
+C. NoSQL
+D. Flat-file
+Answer: C
+
+Q: In SQL, which clause is used to filter rows?
+A. SORT BY
+B. GROUP BY
+C. ORDER BY
+D. WHERE
+Answer: D
+
+Q: What is normalization in databases?
+A. Increasing data redundancy
+B. Reducing query speed
+C. Organizing data to reduce redundancy
+D. Backing up data
+Answer: C
+
+Q: What does the `JOIN` operation do?
+A. Combines two databases
+B. Links rows from two or more tables
+C. Deletes data from one table
+D. Encrypts data
+Answer: B
+
+Q: Which of the following is a valid SQL constraint?
+A. MAP
+B. UNIQUE
+C. RENAME
+D. JOIN
+Answer: B
+
+Q: In PostgreSQL, what data type is best for storing large text?
+A. VARCHAR(100)
+B. INT
+C. TEXT
+D. LONG
+Answer: C

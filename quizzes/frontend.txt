@@ -1,0 +1,69 @@
+Q: What does HTML stand for?
+A. Hyper Text Markdown Language
+B. Hyper Text Markup Language
+C. Home Tool Markup Language
+D. Hyperlinks and Text Markup Language
+Answer: B
+
+Q: Which HTML tag is used to define an internal style sheet?
+A. <css>
+B. <script>
+C. <style>
+D. <link>
+Answer: C
+
+Q: What is the correct syntax for referencing an external script called "app.js"?
+A. <script href="app.js">
+B. <script src="app.js">
+C. <script ref="app.js">
+D. <script link="app.js">
+Answer: B
+
+Q: In CSS, what does 'position: absolute' do?
+A. Positions the element relative to the page
+B. Positions the element relative to its closest positioned ancestor
+C. Fixes the element at the top
+D. Makes the element scroll with the page
+Answer: B
+
+Q: Which React hook is used to manage state in functional components?
+A. useData
+B. useProps
+C. useState
+D. useEffect
+Answer: C
+
+Q: Which property is used in CSS to change the text color?
+A. font-color
+B. color
+C. text-color
+D. background-color
+Answer: B
+
+Q: What is JSX in React?
+A. A JSON format
+B. JavaScript XML syntax used in React
+C. Java syntax for XML
+D. A templating engine
+Answer: B
+
+Q: How do you apply a class in JSX?
+A. class="btn"
+B. className="btn"
+C. cssClass="btn"
+D. styleClass="btn"
+Answer: B
+
+Q: Which HTML element is used for the largest heading?
+A. <h3>
+B. <heading>
+C. <h6>
+D. <h1>
+Answer: D
+
+Q: What does the "flex" property in CSS Flexbox control?
+A. Flexibility of color themes
+B. Vertical stacking only
+C. Alignment and distribution of space among items
+D. Responsiveness of images
+Answer: C

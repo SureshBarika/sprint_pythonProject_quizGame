@@ -1,0 +1,69 @@
+Q: What is Git?
+A. A programming language
+B. A database system
+C. A distributed version control system
+D. A deployment tool
+Answer: C
+
+Q: What command is used to create a local Git repository?
+A. git init
+B. git start
+C. git create
+D. git new
+Answer: A
+
+Q: Which command stages changes for the next commit?
+A. git stage
+B. git commit
+C. git add
+D. git save
+Answer: C
+
+Q: What does `git commit -m "message"` do?
+A. Deletes the repository
+B. Adds changes to staging
+C. Saves changes with a commit message
+D. Pushes changes to GitHub
+Answer: C
+
+Q: What command is used to check the status of files in your repo?
+A. git version
+B. git diff
+C. git check
+D. git status
+Answer: D
+
+Q: What command sends local commits to a remote repository?
+A. git upload
+B. git send
+C. git push
+D. git fetch
+Answer: C
+
+Q: Which file is used to ignore specific files from being committed?
+A. .gitignore
+B. ignore.txt
+C. .gitconfig
+D. commit.ignore
+Answer: A
+
+Q: What does `git clone` do?
+A. Creates a new repo
+B. Copies a remote repo to your local machine
+C. Deletes the remote repo
+D. Shares a repo link
+Answer: B
+
+Q: What is GitHub?
+A. A text editor
+B. A version control software
+C. A cloud-based hosting service for Git repositories
+D. A Linux command-line tool
+Answer: C
+
+Q: What does `git pull` do?
+A. Pushes local changes to remote
+B. Updates remote branch
+C. Fetches and merges changes from remote
+D. Initializes a new repo
+Answer: C

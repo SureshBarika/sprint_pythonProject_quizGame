@@ -1,0 +1,69 @@
+Q: Which of these is a Python web framework?
+A. React
+B. Express
+C. Flask
+D. Angular
+Answer: C
+
+Q: What does REST stand for in REST API?
+A. Representational State Transfer
+B. Responsive State Transmission
+C. Remote Secure Transfer
+D. Reliable Exchange System Technology
+Answer: A
+
+Q: In Node.js, which module is used to create a web server?
+A. http
+B. fs
+C. path
+D. os
+Answer: A
+
+Q: What is middleware in Express.js?
+A. A built-in router
+B. A database connector
+C. A function that handles requests/responses
+D. A type of API call
+Answer: C
+
+Q: Which HTTP method is used to update data on the server?
+A. GET
+B. POST
+C. PUT
+D. DELETE
+Answer: C
+
+Q: Which function in Express handles routing?
+A. express.send()
+B. express.use()
+C. express.route()
+D. app.get()
+Answer: D
+
+Q: What is CORS in backend development?
+A. Cookie Origin Request System
+B. Cross-Origin Resource Sharing
+C. Cross-Origin Request Sharing
+D. Cross-Origin Response Service
+Answer: B
+
+Q: What is the default port for HTTP?
+A. 3000
+B. 8080
+C. 80
+D. 443
+Answer: C
+
+Q: What does the term "stateless" mean in REST APIs?
+A. The server stores session state
+B. Requests contain all necessary information
+C. It doesn’t use a server
+D. It uses stateful protocols
+Answer: B
+
+Q: What is the use of `body-parser` in Express?
+A. It parses cookies
+B. It serves static files
+C. It handles URL encoding
+D. It parses incoming request bodies
+Answer: D
